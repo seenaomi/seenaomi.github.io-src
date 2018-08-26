@@ -1,1 +1,4 @@
 *.pyc
+.vscode/
+pelican-bootstrap3/
+pelican-plugins/

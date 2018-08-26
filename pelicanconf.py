@@ -4,11 +4,18 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Naomi See'
 SITENAME = 'Naomi did a thing'
-SITEURL = ''
+SITEURL = 'https://seenaomi.github.io'
 
 PATH = 'content'
 
 TIMEZONE = 'America/Chicago'
+
+THEME ='pelican-bootstrap3'
+PLUGIN_PATHS = ['pelican-plugins', ]
+PLUGINS = ['i18n_subsites', ]
+JINJA_ENVIRONMENT = {
+    'extensions': ['jinja2.ext.i18n'],
+}
 
 DEFAULT_LANG = 'en'
 
@@ -20,16 +27,21 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Python Meetup', 'https://www.meetup.com/Omahas-Python-Users-Group/'),
+         ('Python Meetup on Twitter', 'https://twitter.com/OmahaPython'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Twitter', 'https://twitter.com/colorful_n0mi'),
+          ('Github', 'https://github.com/seenaomi'),
+          ('Instagram', 'https://www.instagram.com/seemenaomi/'),)
 
 DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+DEFAULT_METADATA = {
+    'status': 'draft',
+}
+
+LOAD_CONTENT_CACHE = False

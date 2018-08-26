@@ -1,10 +1,10 @@
-Title: First post
+Title: Second post
 Date: 2018-08-26 
 Category: Python
 Tags: pelican, publishing
-Slug: my-first-post
+Slug: my-second-post
 Authors: Naomi See
 Summary: Short version for index and feeds
-status: published
+# status: published
 
-This is the content of my super blog post.
+This is the content of my second blog post.
