@@ -10,7 +10,7 @@ PATH = 'content'
 
 TIMEZONE = 'America/Chicago'
 
-THEME ='pelican-theme-bootstrap4'
+THEME ='html5-dopetrope'
 PLUGIN_PATHS = ['pelican-plugins', ]
 PLUGINS = ['i18n_subsites', ]
 JINJA_ENVIRONMENT = {
