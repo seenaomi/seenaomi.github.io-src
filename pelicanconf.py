@@ -50,5 +50,5 @@ TWITTER_USER = 'colorful_n0mi'
 INSTAGRAM_USER = 'seemenaomi'
 LINKEDIN_USER = 'seenaomi'
 ABOUT_TEXT = 'Engineer, Creative, Cat friendly'
-ABOUT_IMAGE = 'aboutme.png'
+ABOUT_IMAGE = 'images/aboutme.png'
 # ABOUT_LINK : Will add a link under the ABOUT_TEXT page
