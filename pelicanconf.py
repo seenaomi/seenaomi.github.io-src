@@ -50,5 +50,5 @@ TWITTER_USER : 'colorful_n0mi'
 INSTAGRAM_USER : 'seemenaomi'
 LINKEDIN_USER : 'seenaomi'
 ABOUT_TEXT : 'Engineer, Creative, Cat friendly'
-ABOUT_IMAGE : 'https://scontent-dfw5-2.xx.fbcdn.net/v/t1.0-9/26055950_10215341634032769_4328904649170755184_n.jpg'
+ABOUT_IMAGE : 'aboutme.png'
 # ABOUT_LINK : Will add a link under the ABOUT_TEXT page
