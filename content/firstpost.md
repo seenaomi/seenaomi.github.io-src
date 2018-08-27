@@ -7,9 +7,8 @@ Authors: Naomi See
 Summary: Now that I feel comfortable in my industry I'm going to start blogging.
 status: published
 
-![partytimeme]({attach}images/partyme.png?classes=right)
 
-Hello I am creating yet another website! 
+![partytimeme]({attach}images/partyme.png)Hello I am creating yet another website! 
 
 I'm ditching the paid hosting for github pages and retiring a made from scratch site for a responsive theme generated with Pelican static site generator.
 
