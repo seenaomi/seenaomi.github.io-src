@@ -4,7 +4,7 @@ Category: Python
 Tags: pelican, publishing
 Slug: my-first-post
 Authors: Naomi See
-Summary: Short version for index and feeds
+Summary: Now that I feel comfortable in my industry I'm going to start blogging.
 status: published
 
 Hello I am creating yet another website! 
