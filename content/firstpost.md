@@ -1,13 +1,15 @@
 Title: First post
 Date: 2018-08-26 
-Category: Python
-Tags: pelican, publishing
+Category: Blogging
+Tags: pelican, python, grad_school
 Slug: my-first-post
 Authors: Naomi See
 Summary: Now that I feel comfortable in my industry I'm going to start blogging.
 status: published
 
 Hello I am creating yet another website! 
+
+![partytimeme]({attach}images/partyme.png)
 
 I'm ditching the paid hosting for github pages and retiring a made from scratch site for a responsive theme generated with Pelican static site generator.
 
